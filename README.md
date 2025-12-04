@@ -222,12 +222,15 @@ Ajoutez ces 3 secrets :
 #### 3.3 Configuration des Github Actions
 
 À partir de votre repository, allez dans la sections "Actions" et sélectionnez "New workflow"
+<img src="procedure-media/Pasted image 20251203212908.png"
+class="wikilink" alt="Pasted image 20251203212908.png" />
 
-![[Pasted image 20251203212908.png]]
 
 Github vous proposera certain modèle préconcus de Github Actions. Sentez vous libre d'explorer toutes les configurations possibles plus tard. Pour l'instant, nous allons créer notre propre workflow en cliquant sur "Set up a workflow yourself"
 
-![[Pasted image 20251203213100.png]]
+<img src="procedure-media/Pasted image 20251203213100.png"
+class="wikilink" alt="Pasted image 20251203213100.png" />
+
 
 Renommez le fichier "deploy.yml" et copiez ce script basique de déploiement à l'intérieur : 
 
