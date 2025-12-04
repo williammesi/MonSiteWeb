@@ -211,8 +211,9 @@ cat ~/.ssh/github_actions
 
 #### 3.2 Configurations des secrets Github Actions
 À partir de votre repository, dirigez vous dans "Settings" et puis dans "Secrets and variables" et finalement dans "Actions"
+<img src="procedure-media/Pasted image 20251203212500.png"
+class="wikilink" alt="Pasted image 20251203212500.png" />
 
-![[Pasted image 20251203212500.png]]
 
 Ajoutez ces 3 secrets :
 - SERVER_IP (l'adresse ip publique de votre serveur)
